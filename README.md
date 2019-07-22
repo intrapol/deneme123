@@ -1,2 +1,2 @@
 # deneme123
-![kamp](kamp.png)
+![KAMP](kamp.pbg)
