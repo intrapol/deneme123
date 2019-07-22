@@ -1,2 +1,2 @@
 # deneme123
-deneme  denemesi
+![kamp](kamp.png)
